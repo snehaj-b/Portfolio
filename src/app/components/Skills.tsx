@@ -3,11 +3,11 @@ import { useRef, useState, useEffect } from 'react';
 import { Code2, Palette, Zap, Database, Globe, Smartphone } from 'lucide-react';
 
 const skills = [
-  { name: 'E-Commerce Site', level: 95, icon: Code2, color: 'from-gray-400 to-white' },
-  { name: 'UI/UX Design', level: 98, icon: Palette, color: 'from-white-500 to-yellow-300' },
-  { name: 'Branding', level: 92, icon: Zap, color: 'from-white to-whitw-400' },
-  { name: 'Frontend Development', level: 85, icon: Database, color: 'from-whitw-300 to-white-500' },
-  { name: 'Web Technologies', level: 90, icon: Globe, color: 'from-white-200 to-white' },
+  { name: 'E-Commerce Site', level: 95, icon: Code2, color: 'from-white-400 to-white' },
+  { name: 'UI/UX Design', level: 98, icon: Palette, color: 'from-white-500 to-white-300' },
+  { name: 'Branding', level: 92, icon: Zap, color: 'from-white to-white-400' },
+  { name: 'Frontend Development', level: 85, icon: Database, color: 'from-white-300 to-white-500' },
+  { name: 'Web Technologies', level: 90, icon: Globe, color: 'from-white-200 to-white-400' },
   { name: 'Graphic Designing', level: 92, icon: Smartphone, color: 'from-white-400 to-white-200' },
 ];
 
