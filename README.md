@@ -1,7 +1,7 @@
 
   # Immersive Portfolio Website
 
-  This is a code bundle for Immersive Portfolio Website. The original project is available at https://www.figma.com/design/7tGcju1ErSvw6YA25ZXVCj/Immersive-Portfolio-Website.
+  This is a code bundle for Immersive Portfolio Website. 
 
   ## Running the code
 
